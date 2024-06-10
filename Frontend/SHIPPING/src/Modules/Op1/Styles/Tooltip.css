@@ -1,0 +1,10 @@
+.introjs-tooltiptext{
+    color: black;
+}
+
+.introjs-tooltip-title{
+    color: black;
+}
+
+.introjs-overlay { pointer-events: none; } 
+.introjs-helperLayer { pointer-events: none; }

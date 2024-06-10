@@ -1,0 +1,103 @@
+/* LabelStyles.module.css */
+.container {
+    padding: 5px;
+    width: 600px;
+    color:black
+}
+
+.border {
+    border: 1px solid black;
+}
+
+.border-dark {
+    border-color: black;
+}
+
+.border-start-0 {
+    border-left: 0;
+}
+
+.border-bottom-0 {
+    border-bottom: 0;
+}
+
+.border-top-0 {
+    border-top: 0;
+}
+
+.border-end {
+    border-right: 1px solid black;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.font-small {
+    font-size: 12px;
+}
+
+.font-medium {
+    font-size: 16px;
+}
+
+.font-large {
+    font-size: 25px;
+}
+
+.bg-black {
+    background-color: black;
+    color: white;
+}
+
+.margin-top-0 {
+    margin-top: 0;
+}
+
+.margin-top-40 {
+    margin-top: 40px;
+}
+
+.margin-top-90 {
+    margin-top: 90px;
+}
+
+.padding-top-25 {
+    padding-top: 25px;
+}
+
+.padding-left-10 {
+    padding-left: 10px;
+}
+
+.padding-bottom-30 {
+    padding-bottom: 30px;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.font-xsmall {
+    font-size: 8px;
+}
+
+.width-80 {
+    width: 80px;
+}
+
+.width-225 {
+    width: 225px;
+}
+
+.height-120 {
+    height: 120px;
+}
+
+.height-96 {
+    height: 96px;
+}
+
+.height-150 {
+    height: 150px;
+}

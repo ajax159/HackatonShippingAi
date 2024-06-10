@@ -4,7 +4,7 @@
 "Shipping AI" is a project designed to create intelligent shipping copilots that facilitate recommendations and customization in the package shipping process. This project is aimed at both online sellers and office shippers, allowing them to manage their shipments efficiently and accurately.
 
 The system combines several advanced technologies to offer a comprehensive solution that includes automatic package dimension detection, shipping cost calculation, and an intuitive, guided user interface.
-
+[Live Preview](https://shippingai.netlify.app/)
 
 
 
